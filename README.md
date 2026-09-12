@@ -15,7 +15,7 @@
 Calculating aircraft stall speed manually involves multiple calculations such as aircraft weight and air density.
 This project provides a simple Java application that performs these calculations automatically and displays the final stall speed.
 
-4. Features
+3. Features
 
 * Takes aircraft mass as input.
 * Takes wing area as input.
@@ -30,7 +30,7 @@ This project provides a simple Java application that performs these calculations
 * Displays stall speed in km/h.
 * Performs basic input validation.
 
-5. Technologies Used
+4. Technologies Used
 
 * **Programming Language:** Java
 * **JDK:** Java Development Kit
@@ -38,7 +38,7 @@ This project provides a simple Java application that performs these calculations
 * **Execution:** Command Prompt / Terminal
 * **Version Control:** Git and GitHub
 
-6. How to Run the Project
+5. How to Run the Project
 
  Step 1: Install Java
  Make sure Java JDK is installed on the computer.
