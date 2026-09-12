@@ -11,10 +11,11 @@ TITLE-Aircraft Stall Speed Calculator
 -The project demonstrates the application of Java programming and basic aerospace engineering concepts together.
 
  2. Problem Statement
+ 3. 
 Calculating aircraft stall speed manually involves multiple calculations such as aircraft weight and air density.
 This project provides a simple Java application that performs these calculations automatically and displays the final stall speed.
 
-3. Features
+4. Features
 
 * Takes aircraft mass as input.
 * Takes wing area as input.
@@ -39,10 +40,10 @@ This project provides a simple Java application that performs these calculations
 
 5. How to Run the Project
 
-## Step 1: Install Java
+Step 1: Install Java
 Make sure Java JDK is installed on the computer.
 
-## Step 2: Open the Project Folder
+Step 2: Open the Project Folder
 Open the terminal or Command Prompt inside the project folder.
 The folder should contain:
 Main.java
@@ -51,8 +52,9 @@ Atmosphere.java
 StallCalculator.java
 Report.java
 
-## Step 3: Compile the Program
-## Step 4: Run the Program
+Step 3: Compile the Program
+
+Step 4: Run the Program
 
 6. Testing
 The program can be tested using different aircraft parameters and altitudes.
@@ -60,13 +62,19 @@ The program can be tested using different aircraft parameters and altitudes.
 Example test cases:
 
 | Test Case |     Mass | Wing Area | CLmax | Altitude |
+
 | 1         |  1200 kg |     16 m² |   1.5 |      0 m |
+
 | 2         |  1200 kg |     16 m² |   1.5 |   3000 m |
+
 | 3         |  1200 kg |     16 m² |   1.5 |   5000 m |
+
 | 4         | -1200 kg |     16 m² |   1.5 |   3000 m |
+
 | 5         |  1200 kg |      0 m² |   1.5 |   3000 m |
 
 7. Expected Result
+
 The program should successfully:
 
 1. Accept aircraft parameters.
