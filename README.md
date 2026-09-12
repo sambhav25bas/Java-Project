@@ -3,8 +3,11 @@ TITLE-Aircraft Stall Speed Calculator
 1. Project Overview
 
 -The Aircraft Stall Speed Calculator is a simple Java-based project developed for Aerospace Engineering.
+
 -The main purpose of this project is to calculate the stall speed of an aircraft using basic aircraft parameters and atmospheric conditions at a given altitude.
+
 -The user enters the aircraft mass, wing area, maximum lift coefficient and altitude. The program then calculates the atmospheric conditions and uses them to determine the aircraft's stall speed.
+
 -The project demonstrates the application of Java programming and basic aerospace engineering concepts together.
 
  2. Problem Statement
